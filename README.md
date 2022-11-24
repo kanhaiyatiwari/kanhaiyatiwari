@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Kanhaiya Tiwari</h1>
   <h1 align="center">A passinet java backend devloper</h1>
-<img src="https://media.giphy.com/media/BgKEiHf1xNV0h6IcSX/giphy.gif" alt="kanhaiyatiwari" />
+<img src="https://thumbs.gfycat.com/CircularFlakyLadybird-max-1mb.gif" alt="kanhaiyatiwari" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanhaiyatiwari&label=Profile%20views&color=0e75b6&style=flat" alt="kanhaiyatiwari" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanhaiyatiwari" alt="kanhaiyatiwari" /></a> </p>
