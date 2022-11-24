@@ -1,6 +1,6 @@
  <h1 align="center">Hi 👋, I'm Kanhaiya Tiwari</h1>
 <h3 align="center">A passionate java backend developer</h3>
-<img src="img_chania.jpg" width="400" height="340">
+<img src="[img_chania.jpg](https://i.gifer.com/NxfN.gif)" width="400" height="340">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanhaiyatiwari&label=Profile%20views&color=0e75b6&style=flat" alt="kanhaiyatiwari" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kanhaiyatiwari" alt="kanhaiyatiwari" /></a> </p>
