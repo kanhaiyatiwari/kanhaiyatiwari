@@ -1,6 +1,6 @@
 <img src="https://thumbs.gfycat.com/CircularFlakyLadybird-max-1mb.gif" alt="kanhaiyatiwari" /> 
  <h1 align="center">Hi 👋, I'm Kanhaiya Tiwari</h1>
-  <h1 align="center">A passinet java backend devloper</h1>
+  <h1 align="center">A passionate  java backend devloper</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanhaiyatiwari&label=Profile%20views&color=0e75b6&style=flat" alt="kanhaiyatiwari" /> </p>
 
