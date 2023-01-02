@@ -1,3 +1,4 @@
+![logo](https://github.com/kanhaiyatiwari/kanhaiyatiwari/blob/main/gitBanner.png)
 <h1 align="center">Hi 👋, I'm Kanhaiya Tiwari</h1>
 <h3 align="center">A passionate java backend developer</h3>
 <img align="right" alt="Coding" width ="400" src"https://user-images.githubusercontent.com/108019103/210261059-a0612293-8d64-43b4-9cbc-9611ca1026ff.png
