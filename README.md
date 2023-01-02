@@ -1,9 +1,7 @@
 ![logo](https://github.com/kanhaiyatiwari/kanhaiyatiwari/blob/main/gitBanner.png)
 <h1 align="center">Hi 👋, I'm Kanhaiya Tiwari</h1>
 <h3 align="center">A passionate java backend developer</h3>
-<img align="right" alt="Coding" width ="400" src"![image](https://user-images.githubusercontent.com/108019103/210263827-85f69aa0-1e45-4c74-aae1-0fd974d87ca4.png)
-
-">
+<img  width="400" align="right" src="![image](https://user-images.githubusercontent.com/108019103/210264246-947d52bc-e58f-4196-8399-30a40b8c6d00.png)" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanhaiyatiwari&label=Profile%20views&color=0e75b6&style=flat" alt="kanhaiyatiwari" /> </p>
 
 - 🌱 I’m currently learning **Java Language ,sql,**
