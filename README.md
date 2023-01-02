@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Kanhaiya Tiwari</h1>
 <h3 align="center">A passionate java backend developer</h3>
-<img align="right" alt="Coding" width ="400" src"![image](https://user-images.githubusercontent.com/108019103/210261059-a0612293-8d64-43b4-9cbc-9611ca1026ff.png)
+<img align="right" alt="Coding" width ="400" src"https://user-images.githubusercontent.com/108019103/210261059-a0612293-8d64-43b4-9cbc-9611ca1026ff.png
 ">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanhaiyatiwari&label=Profile%20views&color=0e75b6&style=flat" alt="kanhaiyatiwari" /> </p>
 
