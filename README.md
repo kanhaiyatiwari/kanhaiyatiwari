@@ -4,7 +4,9 @@
 <img  width="400" align="right" src="https://user-images.githubusercontent.com/108019103/210264246-947d52bc-e58f-4196-8399-30a40b8c6d00.png" />
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kanhaiyatiwari&label=Profile%20views&color=0e75b6&style=flat" alt="kanhaiyatiwari" /> </p>
 
-- 🌱 I’m currently learning **Java Language ,sql,**
+- 🌱 Experienced Java Developer | Proficient in Java & Spring | Strong in Data Structures & Algorithms | Motivated to Explore and Advance in Software Development
+
+,**
 
 - 👨‍💻 All of my projects are available at [https://kanhaiyatiwari.github.io/](https://kanhaiyatiwari.github.io/)
 
